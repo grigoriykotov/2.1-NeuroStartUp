@@ -8,5 +8,6 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+
 Лого:
 <script src="https://localhost/neuro.sdk.min.js"></script>
